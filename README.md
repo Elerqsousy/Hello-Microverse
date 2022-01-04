@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Mahmoud Rizk**
 
 - GitHub: [@Elerqsousy](https://github.com/Elerqsousy)
 - LinkedIn: [Mahmoud El Erqsousy](https://www.linkedin.com/in/mahmoud-rizk/)
