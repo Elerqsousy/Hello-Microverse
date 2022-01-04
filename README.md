@@ -1,21 +1,17 @@
 # Hello-Microverse
 
-> One paragraph statement about the project.
+> This project should have a title of Hello-Microverse
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://elerqsousy.github.io/Hello-Microverse/)
 
 To get a local copy up and running follow these simple example steps.
 
@@ -29,27 +25,20 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [@Elerqsousy](https://github.com/Elerqsousy)
+- LinkedIn: [Mahmoud El Erqsousy](https://www.linkedin.com/in/mahmoud-rizk/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-
 
 ## 📝 License
 
